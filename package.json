@@ -1,0 +1,11 @@
+{
+  "name": "webpack-dependency-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alfonsogarciacaro/webpack-dependency-test.git",
+  "author": "Alfonso Garcia-Caro <alfonso.garcia-caro@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
+}
